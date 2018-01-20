@@ -1,5 +1,6 @@
 # Accurate-Binary-Convolution-Network  
 Binary Convolution Network for faster real-time processing in ASICs  
+
 ---
 
 Tensorflow implementation of [Towards Accurate Binary Convolutional Neural Network](https://arxiv.org/abs/1711.11294) by Xiaofan Lin, Cong Zhao, and Wei Pan.  
