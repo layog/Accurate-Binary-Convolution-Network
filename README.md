@@ -26,5 +26,5 @@ By default `tensorflow-gpu` will be installed. Make sure to have `CUDA` properly
 - [ ] Test on ImageNet (2012)
 - [ ] Add visualization of the complete `ABC` layer
 - [ ] Speed up some operation using `tf.einsum`
-- [ ] Try moving `alphas_training_operation` definition out of layer
+- [x] Try moving `alphas_training_operation` definition out of layer
 - [ ] Try integrating with Keras model
