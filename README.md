@@ -16,7 +16,7 @@ By default `tensorflow-gpu` will be installed. Make sure to have `CUDA` properly
 
 ### Notebooks
 * **ABC** - Contains the original implementation of the ABC network
-* **ABC-layer-inference-support** - Slightly modified functions for better inference time support (tldr; moved the alpha training operation out of the layer)
+* **ABC-layer-inference-support** - Slightly modified functions for better inference time support (tl;dr moved the alpha training operation out of the layer)
 
 ### Testing
 * MNIST - Accuracy on validation set reached upto 94%. (Check the notebook for information)
